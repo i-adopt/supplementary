@@ -43,7 +43,7 @@ The following steps will be illustrated by reusing the running example of "conce
     * **Apply the Pattern**
 
         If you could find a matching pattern, replace the abstract concepts of the pattern with the specialized components identified in Step 2.
-        This will already result in a proper variable description including roles and relations, so you are done.
+        This will already result in a proper variable description including roles and relations, now please proceed with step 11.
 
 5. **Consider Collected Values**
 
