@@ -7,7 +7,7 @@ Alternatively a constraint might be a constraint within the ObservingProcedure.
 Similarly as in SOSA the Observable Property maps to Variable and the Feature Of Interest corresponds to an Entity having the role of a Context Object.
 
 
-![OMS overview](./gfx/oms.png)
+![OMS overview](./gfx/oms.svg)
 
 | OMS                    | I-ADOPT                                               |
 |------------------------|-------------------------------------------------------|

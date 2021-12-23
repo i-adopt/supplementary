@@ -7,7 +7,7 @@ The Observable Property is an observable quality of a Feature Of Interest and ca
 The Feature Of Interest is the real thing whose property is being estimated or calculated at a specific time and space and corresponds to the instance of the Entity type playing the role of an I-ADOPT Context Object (and not of the Object of Interest).
 The Context Object is normally the component of the environment addressed by the variable to be finally observed, usually through a sampling process.
 
-![SOSA overview](./gfx/sosa.png)
+![SOSA overview](./gfx/sosa.svg)
 
 | SOSA                    | I-ADOPT                           |
 |-------------------------|-----------------------------------|

@@ -8,7 +8,7 @@ In SVO, Phenomena are defined recursively as a nested and branched composition o
 The SVO Attribute, defined as a Property-Value (such as gas phase or blue color), can be loosely mapped to the I-ADOPT Constraint. 
 Notable differences between SVO and I-ADOPT are that (1) SVO initially stores Context and Medium Phenomena as chained, reified design patterns and then uses rules and dynamic inferencing to generate the relationships between the Variable and nested components while I-ADOPT directly stores all of the relationships between a Variable and its components and (2) the SVO Attribute is used to constrain atomistic components of a Variable whereas the I-ADOPT Constraint is applied to the Variable as a whole.
 
-![SVO overview](./gfx/svo.png)
+![SVO overview](./gfx/svo.svg)
 
 | SVO                              | I-ADOPT                 |
 |----------------------------------|-------------------------|

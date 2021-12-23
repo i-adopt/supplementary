@@ -7,7 +7,7 @@ The Object of Interest and the Property are required, while the Matrix, the enti
 Notable differences between CPM and I-ADOPT are that (1) Object of Interest and Matrix are classes in CPM and predicates indicating roles that Entities play in I-ADOPT, (2) Constraint in CPM is a catch-all category for terms that are split up into Constraint and Context Object in I-ADOPT and (3) CPM also includes units and statistical measures as components, whereas I-ADOPT explicitly does not include those components because a variable might be expressed in different units and be associated with different statistical measures.
 
 
-![CPM overview](./gfx/cpm.png)
+![CPM overview](./gfx/cpm.svg)
 
 | CPM                    | I-ADOPT                                               |
 |------------------------|-------------------------------------------------------|

@@ -5,7 +5,7 @@ Similarly to [SAREF](saref.md), OBOE has two core classes for defining a variabl
 The OBOE Characteristic maps directly to the I-ADOPT Property, while the Entity maps to the I-ADOPT Entity corresponding to the role of Object of Interest.
 OBOE does not include any additional components corresponding to I-ADOPT Matrix or I-ADOPT ContextObject.
 
-![OBOE overview](./gfx/oboe.png)
+![OBOE overview](./gfx/oboe.svg)
 
 | OBOE                | I-ADOPT                              |
 |---------------------|--------------------------------------|

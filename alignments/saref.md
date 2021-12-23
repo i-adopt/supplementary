@@ -5,7 +5,7 @@ Its components that refer to what is measured are the FeatureOfInterest and the 
 The FeatureOfInterest is the whole of what is being measured, so this maps to the I-ADOPT combination of all Entities (and their assigned roles) involved in a Variable and associated Constraints.
 The Property maps to the I-ADOPT Variable.
 
-![SAREF overview](./gfx/saref.png)
+![SAREF overview](./gfx/saref.svg)
 
 | SAREF                   | I-ADOPT      |
 |-------------------------|--------------|
