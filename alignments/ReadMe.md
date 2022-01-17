@@ -1,4 +1,4 @@
-# Applications to other Ontological Frameworks
+# Alignments to other Ontological Frameworks
 
 Below, we review the alignment of the I-ADOPT framework with a selection of ontological frameworks for describing variables or that refer to variables.
 These frameworks may be complex and involve many components, so for simplicity, we present only the components that can be mapped to the I-ADOPT framework.
