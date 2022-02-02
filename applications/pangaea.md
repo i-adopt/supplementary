@@ -1,4 +1,4 @@
-# Pangaea
+# PANGAEA
 
 One of the most important elements of the PANGAEA data structure are the descriptions of measured values and observations, the so-called parameters.
 The data infrastructure curates hundred thousands observation types with their parameter information.
