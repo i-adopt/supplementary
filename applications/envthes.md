@@ -1,6 +1,6 @@
 # EnvThes
 
-The Environmental Thesaurus ([EnvThes](http://vocabs.lter-europe.net/EnvThes/) represents the harmonized vocabulary dealing with environmental observations and is adopted by LTER-Europe, ILTER, and ECOPOTENTIAL.
+The Environmental Thesaurus ([EnvThes](http://vocabs.lter-europe.net/EnvThes/)) represents the harmonized vocabulary dealing with environmental observations and is adopted by LTER-Europe, ILTER, and ECOPOTENTIAL.
 It provides concepts describing all steps in the data gathering and analysis process starting from the observation sites to the statistical analysis.
 In 2018 it underwent a substantial revision following the approach used in the Complex Property Model.
 
