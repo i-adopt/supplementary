@@ -1,6 +1,6 @@
 # PANGAEA
 
-One of the most important elements of the PANGAEA data structure are the descriptions of measured values and observations, the so-called parameters.
+One of the most important elements of the [PANGAEA](https://www.pangaea.de/) data structure are the descriptions of measured values and observations, the so-called parameters.
 The data infrastructure curates hundred thousands observation types with their parameter information.
 PANGAEA parameters represent from simple to complex concepts and are usually formulated as tuples consisting of the parameter name and a measurement unit.
 A parameter name can consist of one or more observed properties and their measurement contexts, such as an observation object, a scientific method or a measurement device.
