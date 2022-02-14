@@ -13,4 +13,4 @@ These will be described as I-ADOPT variables decomposed in its atoms using the I
 In a second step all other parameters will be re-designed as I-ADOPT variables.
 Missing component terms will be also added if considered necessary.
 
-*Timescale*: work on this uptake story will have a first demonstrable output in January/February 2022.
+*Timescale*: work on this uptake story will have a first demonstrable output in February/March 2022.
