@@ -11,7 +11,7 @@ OBOE does not include any additional components corresponding to I-ADOPT Matrix 
 |---------------------|--------------------------------------|
 | oboe:Entity         | iop:Entity + iop:hasObjectOfInterest |
 | oboe:Characteristic | iop:Property                         |
-| oboe:Context        | iop:Entity + iop:hasContextObject    |
+| oboe:hasContext        | iop:Entity + iop:hasContextObject    |
 
 ## References
 
