@@ -45,12 +45,13 @@ The following steps will be illustrated by reusing the running example of "conce
         If you could find a matching pattern, replace the abstract concepts of the pattern with the specialized components identified in Step 2.
         This will already result in a proper variable description including roles and relations, now please proceed with step 11.
 
-5. **Consider Collected Values**
+5. **Look at Associated Data**
 
     Values within the dataset to be described can give important hints for the further analysis. 
     First and foremost is the distinction into quantitative and qualitative values.
     * Quantitative values are expressed by one or multiple numbers and often include a unit of measure.
     * Qualitative values are, in general, text-literals and may draw from a specific vocabulary.
+    
     The unit of measure or the vocabulary used for the values of a variable will help to narrow down the list of possible properties in the next step.
 
     <ins>*Example*</ins>
@@ -130,7 +131,7 @@ The following steps will be illustrated by reusing the running example of "conce
 
 13. **Create the Variable Concept**
 
-    Mint a IRI for the Variable and attach the previously identified components according to the I-ADOPT ontology  (iop:hasProperty, iop:hasObjectOfInterest, iop:hasMatrix, iop:hasContextObject, iop:hasConstraint).
+    Mint a IRI for the Variable and attach the previously identified components according to the I-ADOPT ontology  (`iop:hasProperty`, `iop:hasObjectOfInterest`, `iop:hasMatrix`, `iop:hasContextObject`, `iop:hasConstraint`).
 
 14. **Add further Associations** (optional)
 
